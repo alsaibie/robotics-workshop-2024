@@ -45,8 +45,8 @@ pip install -r requirements.txt
 
 ### 4. Running the Application
 
-Provide instructions on how to run the application, if applicable.
+Follow the tutorial to run the applications
 
 ---
 
-Feel free to customize this README with any additional steps or information relevant to your project, such as how to contribute, license info, or contact details for the maintainers.
+
