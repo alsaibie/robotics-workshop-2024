@@ -1,7 +1,3 @@
-Certainly! Below is a succinct README template for cloning a project, setting up a Python environment, and installing the necessary requirements using `pip`. You can adapt this template to fit the specifics of your project.
-
----
-
 # Robotics Workshop - Robot Arm Kinemtics - January 2024
 
 ## Quick Start Guide
