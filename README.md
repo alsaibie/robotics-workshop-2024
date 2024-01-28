@@ -1,4 +1,4 @@
-# Robotics Workshop - Robot Arm Kinemtics - January 2024
+# Robotics Workshop - Robot Arm Kinematics - January 2024
 
 ## Quick Start Guide
 
